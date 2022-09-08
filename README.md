@@ -1,6 +1,5 @@
 # Saumya Kothari - Introduction to Neural Networks and Deep Learning Project 
 
----------------------------------------------------------------------------------------------------------------------------
 
 ## Part 1
 
