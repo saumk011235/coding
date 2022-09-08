@@ -1,4 +1,4 @@
-# **Saumya Kothari - Computer Vision Project 1 (Part 1, 2)**
+# **Saumya Kothari - Computer Vision Project 1**
 
 ## **Part 1**
 #### **DOMAIN:** 
