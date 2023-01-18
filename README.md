@@ -8,7 +8,7 @@ This repository is created for projects completed in Artificial Intelligence &am
 3. Ensemble Techniques
 4. Unsupervised Learning
 5. Featurization, Model Selection & Tuning
-6. Reccomendation Systems
+6. Recommendation Systems
 7. Neural Networks & Deep Learning
 8. Computer Vision
 9. Natural Language Processing (NLP)
